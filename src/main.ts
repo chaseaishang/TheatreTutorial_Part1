@@ -123,7 +123,7 @@ function init() {
   setupEventListeners();
   setupSounds();
 
-  // ***** setup our scene *******
+  // ***** setup our scene ******* a das daws das daw 
 
   // Box adad a ad
   const geometry = new THREE.BoxGeometry(10, 10, 10);
@@ -143,7 +143,7 @@ function init() {
   floor.receiveShadow = true;
   scene.add(floor);
 
-  // Swoosh Effect Objects w wadaw d adwa awwd 
+  // Swoosh Effect Objects w wadaw d adwa awwd  dwa daw daw
   const swooshMaterial = new THREE.MeshBasicMaterial({color:0x222222,transparent:true,opacity:1});
 
   const swooshEffect = new THREE.Group();
@@ -164,7 +164,7 @@ function init() {
   swooshEffect.position.set(0,20,0)
   scene.add(swooshEffect)
 
-  // Text Effects
+  // Text Effects awd aw awd 
   const boinkDom = document.getElementById('boink');
   // @ts-ignore
   const boinkText = new CSS2DObject(boinkDom);
