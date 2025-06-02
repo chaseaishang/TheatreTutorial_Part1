@@ -134,7 +134,7 @@ function init() {
   box.receiveShadow = true;
   scene.add(box);
 
-  // Floor  da daw 
+  // Floor  da daw   awdas dawedfwef
   const floorGeometry = new THREE.CylinderGeometry(30, 30, 300, 30);
   const floorMaterial = new THREE.MeshPhongMaterial({ color: 0xf0f0f0 });
 
@@ -143,7 +143,7 @@ function init() {
   floor.receiveShadow = true;
   scene.add(floor);
 
-  // Swoosh Effect Objects w wadaw d
+  // Swoosh Effect Objects w wadaw d adwa awwd 
   const swooshMaterial = new THREE.MeshBasicMaterial({color:0x222222,transparent:true,opacity:1});
 
   const swooshEffect = new THREE.Group();
