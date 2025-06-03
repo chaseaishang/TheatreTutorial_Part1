@@ -164,7 +164,7 @@ function init() {
   swooshEffect.position.set(0,20,0)
   scene.add(swooshEffect)
 
-  // Text Effects awd aw awd 
+  // Text Effects awd aw awd   asdasda adsasdasd 
   const boinkDom = document.getElementById('boink');
   // @ts-ignore
   const boinkText = new CSS2DObject(boinkDom);
@@ -172,7 +172,7 @@ function init() {
   box.add(boinkText);
 
 
-  // ***** THEATRE CONFIG OBJECTS *******
+  // ***** THEATRE CONFIG OBJECTS ******* asd asd a s
 
   const boxObj = sheet.object('Box', {
     rotation: types.compound({
