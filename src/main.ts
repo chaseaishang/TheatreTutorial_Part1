@@ -164,7 +164,7 @@ function init() {
   swooshEffect.position.set(0,20,0)
   scene.add(swooshEffect)
 
-  // main 阿达打撒da sda sa
+  //main 阿达打撒da sda sa Test1 Changeas !!!!!!!!!!!!!
   const boinkDom = document.getElementById('boink');
   // @ts-ignore
   const boinkText = new CSS2DObject(boinkDom);
